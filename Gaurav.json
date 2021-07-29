@@ -1,0 +1,69 @@
+{
+    "basics": {
+        "name": "Gaurav Sandu",
+        "label": "Student",
+        "email": "2020kuec2003@iiitkota.ac.in",
+        "phone": "+919680147079",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication engineering.",
+        "location": {
+            "address": "Jodhpur",
+            "postalCode": "342001",
+            "city": "Jodhpur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "GAURAV00S",
+                "url": "https://www.github.com/GAURAV00S"
+            },
+            {
+                "network": "linkedin",
+                "username": "Gaurav Sandu",
+                "url": "https://www.linkedin.com/in/gaurav-sandu-301a991bb/"
+            },
+            {
+                "network": "Instagram",
+                "username": "gauravsandu1",
+                "url": "https://www.instagram.com/gauravsandu1/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Tennis",
+                "Badminton",
+                "Cricket",
+                "Table Tennis"
+            ]
+        }
+    ],
+    "references": []
+}
