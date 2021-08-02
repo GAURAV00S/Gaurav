@@ -2,6 +2,7 @@
     "basics": {
         "name": "Gaurav Sandu",
         "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/88139456?s=400&u=3b65d82151d06a9b8ddfcd3d3dfda601f31ac29e&v=4",
         "email": "2020kuec2003@iiitkota.ac.in",
         "phone": "+919680147079",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication engineering.",
@@ -13,7 +14,7 @@
             "region": "Rajasthan"
         },
         "profiles": [
-            {
+                {
                 "network": "Github",
                 "username": "GAURAV00S",
                 "url": "https://www.github.com/GAURAV00S"
@@ -55,13 +56,14 @@
         }
     ],
     "interests": [
+       
         {
             "name": "Playing",
             "keywords": [
                 "Tennis",
                 "Badminton",
-                "Cricket",
-                "Table Tennis"
+		"Cricket",
+		"Table Tennis"
             ]
         }
     ],
